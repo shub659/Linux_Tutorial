@@ -24,8 +24,9 @@ Linux architecture has the following components:
 ## Linux-Architecture
 
 Kernel: Kernel is the core of the Linux based operating system. 
-(./img/Ar.jpg)
 
+
+![Kernel](./img/Ar.jpg)
 It virtualizes the common hardware resources of the computer to provide each process with its virtual resources. This makes the process seem as it is the sole process running on the machine. The kernel is also responsible for preventing and mitigating conflicts between different processes. Different types of the kernel are:
 Monolithic Kernel
 Hybrid kernels
